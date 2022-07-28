@@ -1,0 +1,54 @@
+
+068 Sorting-Slides
+https://cs.slides.com/colt_steele/elementary-sorting-algorithms
+
+068 Sorting-Animations-Website
+https://www.toptal.com/developers/sorting-algorithms
+
+069 Built-In-JS-Sort-Documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+070 Visualgo-Sorting-Click-Bubble-Sort-
+https://visualgo.net/en/sorting
+
+
+075 Sorting-Slides
+https://cs.slides.com/colt_steele/elementary-sorting-algorithms
+
+075 Visualgo-Sorting-Click-Selection-Sort-
+https://visualgo.net/en/sorting
+
+
+079 Sorting-Slides
+https://cs.slides.com/colt_steele/elementary-sorting-algorithms
+
+079 Visualgo-Sorting-Click-Insertion-Sort-
+https://visualgo.net/en/sorting
+
+
+082 Sorting-Animations-Website
+https://www.toptal.com/developers/sorting-algorithms
+
+
+084 Slides
+https://cs.slides.com/colt_steele/intermediate-sorting-algorithms
+
+085 Visualgo-Sorting-click-the-merge-tab-
+https://visualgo.net/en/sorting
+
+090 Big-O-Cheat-Sheet
+http://bigocheatsheet.com/
+
+
+092 Visualgo-Sorting-Click-Quick-Sort-
+https://visualgo.net/en/sorting
+
+092 Slides
+https://cs.slides.com/colt_steele/intermediate-sorting-algorithms
+
+
+099 Visualgo-Sorting-Click-Radix-Sort-
+https://visualgo.net/en/sorting
+
+099 Slides
+https://cs.slides.com/colt_steele/intermediate-sorting-algorithms

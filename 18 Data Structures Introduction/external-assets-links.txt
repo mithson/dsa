@@ -1,0 +1,9 @@
+
+104 SLIDES
+https://cs.slides.com/colt_steele/es2015-class-syntax
+
+105 SLIDES
+https://cs.slides.com/colt_steele/es2015-class-syntax
+
+105 MDN-JS-Class-Guide
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes

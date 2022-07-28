@@ -1,0 +1,6 @@
+
+004 BIG-O-Slides
+https://cs.slides.com/colt_steele/big-o-notation
+
+007 Performance-Tracker-Tool
+https://rithmschool.github.io/function-timer-demo/

@@ -1,0 +1,6 @@
+
+110 SLIDES
+https://cs.slides.com/colt_steele/singly-linked-lists
+
+110 Visualgo-Linked-Lists
+https://visualgo.net/en/list
